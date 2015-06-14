@@ -2,6 +2,8 @@
 Addon for Minecraft Pocket Edition, which adds the Gravity Gun from Half-Life 2.
 Inspired by iChun's PC mod (concept and item texture used with [permission](https://twitter.com/ohaiiChun/status/609983013447991296)).
 
+For more info or support, please visit the [forum post](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2449773-0-11-1-gravity-gun-addon-pick-up-and-throw-mobs) or follow me on twitter [@mackthehobbit](http://twitter.com/mackthehobbit).
+
 ## Changelog
 ### v1.0:
  * Initial release
