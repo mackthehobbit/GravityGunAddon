@@ -5,13 +5,15 @@ Inspired by iChun's PC mod (concept and item texture used with [permission](http
 For more info or support, please visit the [forum post](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2449773-0-11-1-gravity-gun-addon-pick-up-and-throw-mobs) or follow me on twitter [@mackthehobbit](http://twitter.com/mackthehobbit).
 
 ## Changelog
+### v1.0.1:
+ * Added a recipe for survival mode
+ * Fixed in-hand rendering
 ### v1.0:
  * Initial release
  * The Gravity Gun is available in the creative mode inventory (weapons/tools tab)
  * Picking up/pushing/throwing mobs supported
 
 ## Todo
- * Add recipe(s) for survival mode
  * Open source?
  * Add super-charged gravity gun
  * Make throw power depend on entity size
