@@ -5,6 +5,10 @@ Inspired by iChun's PC mod (concept and item texture used with [permission](http
 For more info or support, please visit the [forum post](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2449773-0-11-1-gravity-gun-addon-pick-up-and-throw-mobs) or follow me on twitter [@mackthehobbit](http://twitter.com/mackthehobbit).
 
 ## Changelog
+### v1.0.2:
+ * Made picking up entities smoother (the player doesn't have to stand still to do so now)
+ * Fixed a bug which made entities look like they take damage when pushing them
+ * Added a (short) cooldown to pushing mobs
 ### v1.0.1:
  * Added a recipe for survival mode
  * Fixed in-hand rendering
